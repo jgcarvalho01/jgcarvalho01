@@ -7,6 +7,7 @@
 
 ## Mais sobre mim
 <a href="https://github.com/jgcarvalho01" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jgcarvalhodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
 
 ## Tecnologias e Feramentas
 <p align="left">
