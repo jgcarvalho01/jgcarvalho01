@@ -26,6 +26,6 @@
 </p>
 
 ##
-![JoaoGabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=jgcarvalho01&show_icons=true&theme=radical)
+![JoaoGabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=jgcarvalho01&show_icons=true&theme=radical&count_private=true)
 
 ### Obrigado por me visitar :)
