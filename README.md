@@ -1,9 +1,8 @@
 ## Olá, eu me chamo João Gabriel!
 
-- :iphone: Sou um Desenvolvedor Mobile
+- :computer: Sou um Desenvolvedor Frontend
 - :books: Atualmente cursando Ciência da Computação
 - :house_with_garden: Moro no Brasil
-- :computer: Apaixonado por tecnologia
 
 ## Mais sobre mim
 <a href="https://github.com/jgcarvalho01" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -26,6 +25,6 @@
 </p>
 
 ##
-![JoaoGabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=jgcarvalho01&show_icons=true&theme=radical&count_private=true)
+![JoaoGabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=jgcarvalho01&show_icons=true&theme=radical)
 
 ### Obrigado por me visitar :)
